@@ -1,191 +1,2957 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "TOWEROWNER": "Ridan", "HT_FT": "160", "MailingCit": "Zephyrhills, FL 33543-5527", "PhyAddress": "1828 Upper Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.258147818687533, 28.183636209828499 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "100", "MailingCit": "Houston, TX 77098-3725", "PhyAddress": "22920 SR 54" }, "geometry": { "type": "Point", "coordinates": [ -82.437553620246348, 28.183428411600961 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Verizon Wireless", "HT_FT": "198", "MailingCit": "Wesley Chapel, FL33545-0100", "PhyAddress": "5751 Pointe Pleasant Blvd" }, "geometry": { "type": "Point", "coordinates": [ -82.34476306048812, 28.240771208882226 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Verizon Wireless", "HT_FT": null, "MailingCit": "St Petersburg, FL 33733-4042", "PhyAddress": "8101 Leo Kidd Ave" }, "geometry": { "type": "Point", "coordinates": [ -82.715865078546656, 28.274518618994982 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Verizon Wireless", "HT_FT": "180\/185", "MailingCit": "New Port Richey, FL 34653-2359", "PhyAddress": "2849 Oakcrest Pl" }, "geometry": { "type": "Point", "coordinates": [ -82.430858486886706, 28.198064083596755 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "WDCF (Field)", "HT_FT": "204", "MailingCit": "Clearwater, , FL33765-2216", "PhyAddress": "37905 Wdcf Dr" }, "geometry": { "type": "Point", "coordinates": [ -82.189641234585736, 28.335544275260098 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "WPSO AM", "HT_FT": "303", "MailingCit": "Clearwater, FL 33761-1736", "PhyAddress": "5113 Palmetto Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.729128350680867, 28.25915014843644 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "WTBN", "HT_FT": "405", "MailingCit": "Camarillo, CA  93012-0958", "PhyAddress": "17215 SR 54" }, "geometry": { "type": "Point", "coordinates": [ -82.52986346475268, 28.212956103979945 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "WTBN", "HT_FT": "406", "MailingCit": "Camarillo, CA  93012-0958", "PhyAddress": "17215 SR 54" }, "geometry": { "type": "Point", "coordinates": [ -82.530524721800475, 28.211931561595367 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "WTBN", "HT_FT": "406", "MailingCit": "Camarillo, CA  93012-0958", "PhyAddress": "17215 SR 54" }, "geometry": { "type": "Point", "coordinates": [ -82.527360971420507, 28.211936459009941 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "WTBN", "HT_FT": "405", "MailingCit": "Camarillo, CA  93012-0958", "PhyAddress": "17215 SR 54" }, "geometry": { "type": "Point", "coordinates": [ -82.531183631060856, 28.210898892016836 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "WTBN", "HT_FT": "406", "MailingCit": "Camarillo, CA  93012-0958", "PhyAddress": "17215 SR 54" }, "geometry": { "type": "Point", "coordinates": [ -82.523370000165613, 28.210829999641788 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "WTBN", "HT_FT": "406", "MailingCit": "Camarillo, CA  93012-0958", "PhyAddress": "17215 SR 54" }, "geometry": { "type": "Point", "coordinates": [ -82.528957221867813, 28.209550613341342 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "WYFE -88.9", "HT_FT": "490", "MailingCit": "Charlotte NC  28241-7300", "PhyAddress": "Arcola Av" }, "geometry": { "type": "Point", "coordinates": [ -82.673707077974896, 28.377937071365967 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "WZHR", "HT_FT": "190", "MailingCit": "Zephyrhills, FL 33541-7416", "PhyAddress": "8635 Fort King Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.207680739503729, 28.283426344541109 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "GTP Acquisition\/T-Mobile", "HT_FT": "160\/170", "MailingCit": "Land O Lakes, FL 34639-0489", "PhyAddress": "4533 Savanah Dr" }, "geometry": { "type": "Point", "coordinates": [ -82.431137002409699, 28.224289200955784 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Cingular Wireless", "HT_FT": null, "MailingCit": "Zephyrhills, FL33542-4312", "PhyAddress": "5337 8th St" }, "geometry": { "type": "Point", "coordinates": [ -82.181199272205063, 28.235453957485557 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "American Tower Corp\/T-Mobile\/Belanger", "HT_FT": "250", "MailingCit": "Wesley Chapel, FL33544-2806", "PhyAddress": "4241 Lado Dr" }, "geometry": { "type": "Point", "coordinates": [ -82.264088362636798, 28.219060684021397 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "N\/A", "HT_FT": null, "MailingCit": "Palm Beach Garden, FL33410-2810", "PhyAddress": "7131 Mitchell Blvd" }, "geometry": { "type": "Point", "coordinates": [ -82.696558154634459, 28.18289290331963 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "N\/A", "HT_FT": null, "MailingCit": "St. Petersburg, FL 33733-4042", "PhyAddress": "7948 Mitchell Ranch Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.682202441794502, 28.203108876011115 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "N\/A", "HT_FT": null, "MailingCit": "Zephyrhills, FL 33543-9201", "PhyAddress": "1004 Morris Bridge Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.260111724495161, 28.172207426695678 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "N\/A", "HT_FT": "185", "MailingCit": "Odessa, FL 33556-0226", "PhyAddress": "14325 Black Lake Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.571460433847506, 28.191257722428759 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "N\/A", "HT_FT": null, "MailingCit": "Lutz, FL 33548-6406", "PhyAddress": "25350 S.R. 54" }, "geometry": { "type": "Point", "coordinates": [ -82.400234474061804, 28.186913860745754 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": null, "HT_FT": null, "MailingCit": "Deerfield, IL 60015-5121", "PhyAddress": "28113 S.R. 54" }, "geometry": { "type": "Point", "coordinates": [ -82.349882949413526, 28.236731523313331 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "N\/A", "HT_FT": null, "MailingCit": "DADE CITY, FL 33525-8275", "PhyAddress": null }, "geometry": { "type": "Point", "coordinates": [ -82.187271149834729, 28.295555291231391 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "N\/A", "HT_FT": null, "MailingCit": "Odessa, FL 33556-3877", "PhyAddress": "15099 County Line Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.56641229625049, 28.173593048717784 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "N\/A", "HT_FT": null, "MailingCit": "LAND O LAKES, FL 34639-8121", "PhyAddress": "16025 U.S. 41" }, "geometry": { "type": "Point", "coordinates": [ -82.49039269606412, 28.393242613024974 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "N\/A", "HT_FT": null, "MailingCit": "Spring Hill, FL 34606-6410", "PhyAddress": "7509 Rottingham Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.6903429026125, 28.316137210768879 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Verizon Wireless", "HT_FT": "230", "MailingCit": "Land O Lakes, FL 34638-6801", "PhyAddress": "18027 Williams Lp" }, "geometry": { "type": "Point", "coordinates": [ -82.517953246536536, 28.320019771022231 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "AT&T Mobility LLC", "HT_FT": "299", "MailingCit": "Dade City, , FL 33526-0278", "PhyAddress": "6830 SR 52" }, "geometry": { "type": "Point", "coordinates": [ -82.701045906395336, 28.330447500754843 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Crown Castle South LLC", "HT_FT": "240", "MailingCit": "Brooksville, FL34601-5342", "PhyAddress": "16700 U.S. 41" }, "geometry": { "type": "Point", "coordinates": [ -82.481200000405124, 28.400319999864493 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Highpoint Tower", "HT_FT": "420", "MailingCit": "Sumterville, FL 33585-0010", "PhyAddress": "19000 Bexley Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.547055881587852, 28.252536337576419 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "AT&T Mobility LLC\/ SBA Towers", "HT_FT": "201", "MailingCit": "Wesley Chapel, FL33543-6471", "PhyAddress": "5831 Pointe Pleasant Blvd" }, "geometry": { "type": "Point", "coordinates": [ -82.34429495753831, 28.241382141627433 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Spectrasite Comm", "HT_FT": "270", "MailingCit": "Tampa, FL33618-2161", "PhyAddress": "19955 Bexley Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.485462043808013, 28.254086903070718 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "195", "MailingCit": "Holiday, FL 34690-3002", "PhyAddress": "6115 Baker Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.699808832876229, 28.248172797728898 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "199", "MailingCit": "New Port Richey, FL 34653-2359", "PhyAddress": "5000 Little Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.660049999976593, 28.232309999783659 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "170", "MailingCit": "New Port Richey, FL 34654-2506", "PhyAddress": "10534 Little Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.66462903023988, 28.311245883186015 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Verizon Wireless", "HT_FT": null, "MailingCit": "Tampa, FL 33647-2774", "PhyAddress": "30435 Commerce Dr" }, "geometry": { "type": "Point", "coordinates": [ -82.314212783793138, 28.329128376263487 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "165", "MailingCit": "Port Richey, FL 34668-5310", "PhyAddress": "10622 Harris Lp" }, "geometry": { "type": "Point", "coordinates": [ -82.637942620751119, 28.429301714741637 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "200", "MailingCit": "Sarasota, FL 34236-7801", "PhyAddress": "35230 S.R. 52" }, "geometry": { "type": "Point", "coordinates": [ -82.229121998650882, 28.339116011735261 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile\/Ridan Industries\/Pasco County", "HT_FT": "150-180", "MailingCit": "New Port Richey, FL 34653-2359", "PhyAddress": "6911 Fox Hollow Dr" }, "geometry": { "type": "Point", "coordinates": [ -82.700309999542014, 28.303229999643012 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile\/Crown Castle\/cingular Wireless", "HT_FT": "150", "MailingCit": "Tampa, FL33606-2744", "PhyAddress": "5104 Land O Lakes Blvd" }, "geometry": { "type": "Point", "coordinates": [ -82.457599999523097, 28.230699999755739 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile USA\/WREC", "HT_FT": "195", "MailingCit": "Dade City, FL 33526-0278", "PhyAddress": "6940 Curley Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.294259999509094, 28.258220000321607 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile\/WREC", "HT_FT": "300", "MailingCit": "Dade City, FL 33523-2920", "PhyAddress": "12013 Hays Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.570050000358592, 28.333140000108724 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile\/Mazzuco Philip", "HT_FT": "190\/206", "MailingCit": "Spring Hill, FL 34611-5159", "PhyAddress": "18824 County Line Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.504862000710716, 28.430651403918773 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile USA\/SBA Towers\/FL Property Holdings", "HT_FT": "200", "MailingCit": "Spring Hill, FL 34609-5708", "PhyAddress": "18805 Old Shady Hills Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.551680000349251, 28.430749999898499 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile USA", "HT_FT": "150", "MailingCit": "Zephyrhills, FL33539-2176", "PhyAddress": "35527 Old Geiger Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.229529999590994, 28.244700000008429 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "AT&T Mobility LLC\/T-Mobile, Pasco Sportsmans", "HT_FT": "200", "MailingCit": "Grosse Pointe, MI 48230-1420", "PhyAddress": "18916 Titus Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.609449999593963, 28.43261000042887 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile USA\/Ridan", "HT_FT": "120", "MailingCit": "Hudson, FL 34674-5241", "PhyAddress": "13219 Fivay Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.67897515471175, 28.348905591696766 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "250", "MailingCit": "Malvern, PA 19355-1425", "PhyAddress": "8323 Corporate Way" }, "geometry": { "type": "Point", "coordinates": [ -82.676890000387914, 28.257730000212391 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile USA", "HT_FT": "60", "MailingCit": "West, Palm Beach, FL 33401-5421", "PhyAddress": "2435 U.S.  19 N" }, "geometry": { "type": "Point", "coordinates": [ -82.74064000011299, 28.194880000181765 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Salem Radio", "HT_FT": "40", "MailingCit": "Trinity, FL 34655-5347", "PhyAddress": "1436 Tawnyberry Ct" }, "geometry": { "type": "Point", "coordinates": [ -82.670132623000853, 28.180387194083647 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Pasco County", "HT_FT": null, "MailingCit": "New Port Richey, FL 34653-2359", "PhyAddress": "14230 Hays Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.560625329501718, 28.370198285788327 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Brooks Joseph", "HT_FT": "120", "MailingCit": "Lutz, FL 33548-4411", "PhyAddress": "10125 Land O lakes Blvd" }, "geometry": { "type": "Point", "coordinates": [ -82.500013762298195, 28.304464567130132 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Stubbs Farm", "HT_FT": "400", "MailingCit": "Dade City, FL 33525-1834", "PhyAddress": "2101 Power Line Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.206290884642854, 28.391587597840687 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Verrelli Angelo", "HT_FT": null, "MailingCit": "Ridge Manor, FL 33523-8921", "PhyAddress": "20616 US 98" }, "geometry": { "type": "Point", "coordinates": [ -82.189609163670156, 28.459166286801558 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Vertex", "HT_FT": "160", "MailingCit": "Thonotosassa, FL 33592-2301", "PhyAddress": "1004 Morris Bridge Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.256015683717706, 28.172857515298222 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Sprint\/Ridan", "HT_FT": "154", "MailingCit": "Tampa, FL 33613-5235", "PhyAddress": "1500 Meadow Pointe Blvd" }, "geometry": { "type": "Point", "coordinates": [ -82.292583335718277, 28.178885839465469 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "WREC", "HT_FT": "194", "MailingCit": "Dade City, FL 33526-0278", "PhyAddress": "4947 Smith Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.299999213793257, 28.228388766506296 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Hopkins Dwight", "HT_FT": "180", "MailingCit": "Wesley Chapel, FL 33543-4215", "PhyAddress": "28555 SR 54" }, "geometry": { "type": "Point", "coordinates": [ -82.343360682830223, 28.239056717738137 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Dexter Timothy", "HT_FT": null, "MailingCit": "Wesley Chapel, FL33544-3427", "PhyAddress": "26647 Wesley Chapel" }, "geometry": { "type": "Point", "coordinates": [ -82.375404157382036, 28.229056705783115 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "235", "MailingCit": "Land O Lakes, FL 34638-5703", "PhyAddress": "23818 SR 52" }, "geometry": { "type": "Point", "coordinates": [ -82.421901037925991, 28.320293795441497 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Bible Broadcasting", "HT_FT": null, "MailingCit": "Hudson, FL 34667-3622", "PhyAddress": "8323 Arcola Ave" }, "geometry": { "type": "Point", "coordinates": [ -82.677235550293275, 28.378868955222043 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Myers Johnnie", "HT_FT": null, "MailingCit": "New Port Richey, FL 34652-1741", "PhyAddress": "12214 US 19" }, "geometry": { "type": "Point", "coordinates": [ -82.698461970347537, 28.334749661186962 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Glendale Federal", "HT_FT": null, "MailingCit": "New Port Richey, FL 34656-1085", "PhyAddress": "9501US 19" }, "geometry": { "type": "Point", "coordinates": [ -82.709178177291207, 28.294977420222821 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Daquino Nicholas", "HT_FT": null, "MailingCit": "Port Richey, FL 34668-4204", "PhyAddress": "9803 Clinton Ln" }, "geometry": { "type": "Point", "coordinates": [ -82.673393310826313, 28.299753337080134 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Living Word Church", "HT_FT": null, "MailingCit": "New Port Richey, FL 34653-4973", "PhyAddress": "5151 Rowan Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.695982525714356, 28.234025824229164 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "WTBN", "HT_FT": "406", "MailingCit": "Camarillo, CA  93012-0958", "PhyAddress": "17215 SR 54" }, "geometry": { "type": "Point", "coordinates": [ -82.523370000165613, 28.210829999641788 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Bright House Networks", "HT_FT": "204", "MailingCit": "Syracuse, NY 13221-4739", "PhyAddress": "10555 Moon Lake Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.620544016218901, 28.311079054853014 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Bright House Networks", "HT_FT": null, "MailingCit": "Syracuse, NY 13221-4739", "PhyAddress": "12384 U.S. 19" }, "geometry": { "type": "Point", "coordinates": [ -82.696952210510943, 28.336214775777773 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Crown Castle South LLC", "HT_FT": "257", "MailingCit": "Alpharetta, GA  30004-8502", "PhyAddress": "16731 Bachmann Ave" }, "geometry": { "type": "Point", "coordinates": [ -82.662443103505723, 28.400728536632958 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Florida Power", "HT_FT": null, "MailingCit": "St Petersburg, FL 33733-4042", "PhyAddress": "3240 Grand Blvd" }, "geometry": { "type": "Point", "coordinates": [ -82.721624283784266, 28.20645924622055 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "WTBN", "HT_FT": "406", "MailingCit": "Camarillo, CA  93012-0958", "PhyAddress": "17215 SR 54" }, "geometry": { "type": "Point", "coordinates": [ -82.523370000165613, 28.210829999641788 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "140", "MailingCit": "New Port Richey, FL 34654-1942", "PhyAddress": "6235 Old Ridge Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.710823477493179, 28.281157170259075 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "170", "MailingCit": "New Port Richey, FL 34652-1741", "PhyAddress": "12218 U.S. 19" }, "geometry": { "type": "Point", "coordinates": [ -82.698329999684759, 28.334720000058883 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "165", "MailingCit": "San Antonio, FL33576-1211", "PhyAddress": "28113 S.R. 54" }, "geometry": { "type": "Point", "coordinates": [ -82.344170000152701, 28.244719999636057 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "195", "MailingCit": "Zephyrhills, FL 33542-4312", "PhyAddress": "38122 Henry Dr" }, "geometry": { "type": "Point", "coordinates": [ -82.185983081683801, 28.247985253316315 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": null, "MailingCit": "Brooksville, FL 34610-2134", "PhyAddress": "18247 U.S. 41" }, "geometry": { "type": "Point", "coordinates": [ -82.46860999992856, 28.422500000217259 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "170", "MailingCit": "Hudson, FL 34667-2564", "PhyAddress": "12077 Moon Lake Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.636110000003271, 28.333890000100968 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "300", "MailingCit": "Brooksville, FL 34604-6899", "PhyAddress": "19010 Bexley Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.555280000180815, 28.261940000392006 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "150", "MailingCit": "New Port Richey, FL 34655-2904", "PhyAddress": "7948 Mitchell Ranch Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.669549999651323, 28.215730000067552 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile USA", "HT_FT": "150", "MailingCit": "New Port Richey, FL 34652-5948", "PhyAddress": "4113 US 19" }, "geometry": { "type": "Point", "coordinates": [ -82.738030000434065, 28.218759999554599 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "131", "MailingCit": "Birmingham AL  35223-2321", "PhyAddress": "8923 Mitchell Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.669209999998259, 28.187509999725648 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile USA", "HT_FT": null, "MailingCit": "Land O Lakes, FL 34638-2826", "PhyAddress": "2025 Mansfield Blvd" }, "geometry": { "type": "Point", "coordinates": [ -82.3164600003755, 28.188069999765847 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "140", "MailingCit": "St Petersburg, FL 33733-4042", "PhyAddress": "15626 Olney Ln" }, "geometry": { "type": "Point", "coordinates": [ -82.558326264321323, 28.406345756673925 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "160", "MailingCit": "Tampa, FL 33612-7601", "PhyAddress": "16915 S.R. 54" }, "geometry": { "type": "Point", "coordinates": [ -82.537426134685077, 28.195317059035414 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile USA", "HT_FT": "300\/320", "MailingCit": "Sarasota, FL 34236-7801", "PhyAddress": "15841 Antler Ln" }, "geometry": { "type": "Point", "coordinates": [ -82.533466451720727, 28.387909663597263 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile USA", "HT_FT": "130", "MailingCit": "Port Richey, FL 34668-2648", "PhyAddress": "7509 Rottingham Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.688900000474135, 28.316569999570795 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": null, "MailingCit": null, "PhyAddress": "107 Est County Line Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.156700000323553, 28.171399999677742 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": null, "MailingCit": null, "PhyAddress": "17040 U.S. 301" }, "geometry": { "type": "Point", "coordinates": [ -82.211899999678209, 28.171000000114759 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": null, "MailingCit": null, "PhyAddress": "5004 Grand Blvd" }, "geometry": { "type": "Point", "coordinates": [ -82.211899999678209, 28.171000000114759 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": null, "MailingCit": null, "PhyAddress": "19219 Hiawatha Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.566160000441812, 28.160350000070984 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "N\/A", "HT_FT": "180", "MailingCit": "San Antonio, FL 33576-0483", "PhyAddress": "32817 Leonard Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.272961846680161, 28.312481595753475 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "N\/A", "HT_FT": "120", "MailingCit": "Trinity, FL 34655-4401", "PhyAddress": "2420 Welbilt Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.678572467941081, 28.193834430757871 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Vertex", "HT_FT": "160", "MailingCit": "DADE CITY, FL 33525-8279", "PhyAddress": "10219 Wirt Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.270768037038124, 28.306122607572927 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "AllTel", "HT_FT": "185", "MailingCit": "Zephyrhills, FL 33541-2226", "PhyAddress": "4531 Windy Ln" }, "geometry": { "type": "Point", "coordinates": [ -82.238001127702688, 28.223264796133915 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Nextel", "HT_FT": null, "MailingCit": "DADE CITY, FL 33525-7323", "PhyAddress": "3315 Celtic Dr" }, "geometry": { "type": "Point", "coordinates": [ -82.346469676137588, 28.37837603825691 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "125", "MailingCit": "New Port Richey, FL 34652-8007", "PhyAddress": "3315CELTIC DR" }, "geometry": { "type": "Point", "coordinates": [ -82.700038114947134, 28.209195758127109 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Vertex", "HT_FT": "160", "MailingCit": "Jacksonville, FL 32217-2740", "PhyAddress": "Silver Maple Pkwy (SR 56 at I-75)" }, "geometry": { "type": "Point", "coordinates": [ -82.381794680811467, 28.188088113697368 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Vertex", "HT_FT": "150", "MailingCit": "Zephyrhills, FL 33539-1360", "PhyAddress": "8248 Handcart Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.243904519142532, 28.277985994944416 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "American Tower Corp\/Congular Wireless\/Redbrook", "HT_FT": "197", "MailingCit": "Land O Lakes, FL 34639-5438", "PhyAddress": "2409 Old Cypress Creek Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.401731459596945, 28.191760318635634 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "American Tower Corp", "HT_FT": "300", "MailingCit": "Dade City, FL 33525-8520", "PhyAddress": "10602 Fort King Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.200455187995118, 28.314139974398287 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "American Tower Corp", "HT_FT": "250", "MailingCit": "Hudson, FL 34669-3063", "PhyAddress": "13448 SR 52" }, "geometry": { "type": "Point", "coordinates": [ -82.592286854966019, 28.328659188907277 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "American Tower Corp", "HT_FT": "300", "MailingCit": "Dade City, FL 33523-6239", "PhyAddress": "32305 Blanton Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.280982529244042, 28.422926745174472 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "American Tower Corp", "HT_FT": "432", "MailingCit": "Tampa, FL 33614-6532", "PhyAddress": "20239 U.S. 301" }, "geometry": { "type": "Point", "coordinates": [ -82.18903147678482, 28.452100610725505 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "American Tower Corp", "HT_FT": "242", "MailingCit": "Tampa, FL 33614-6532", "PhyAddress": "6935 Elwood Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.138908225660273, 28.258692742296564 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "American Tower Corp\/Weltmore Scott", "HT_FT": "298-300", "MailingCit": "Tampa, FL 33614-6532", "PhyAddress": "20839 Leonard Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.472683159223692, 28.189204777536862 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "American Tower Corp", "HT_FT": "400", "MailingCit": "Tampa, FL 33614-6532", "PhyAddress": "11051Denton Ave" }, "geometry": { "type": "Point", "coordinates": [ -82.63219567200747, 28.392305909606712 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "AT&T Mobility LLC", "HT_FT": "200", "MailingCit": "Dade City, , FL 33523-6119", "PhyAddress": "30351 Johnston Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.315689067815384, 28.405743773363163 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "AT & T Mobility LLC\/T-Mobile\/Juan Citrus Partnership", "HT_FT": "198-200", "MailingCit": "New Port Richey, FL 34652-3922", "PhyAddress": "5010 Grand Blvd" }, "geometry": { "type": "Point", "coordinates": [ -82.722959873915087, 28.231990543341414 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "AT&T Mobility LLC\/Cellular", "HT_FT": "240'", "MailingCit": "Zephyrhills, FL 33541-2226", "PhyAddress": "34969 SR 54" }, "geometry": { "type": "Point", "coordinates": [ -82.239571360631359, 28.223025734041784 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "AT&T Mobility LLC", "HT_FT": "192", "MailingCit": "Clearwater, FL 33762-0297", "PhyAddress": "13630 Interlaken Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.589789265936318, 28.187034710981539 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Bright House Networks", "HT_FT": "148", "MailingCit": "Syracuse, NY 13221-4739", "PhyAddress": "30432 SR 54" }, "geometry": { "type": "Point", "coordinates": [ -82.312965373756242, 28.239552898227906 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Clearshot Comm LLC\/T-Mobile", "HT_FT": "165\/170", "MailingCit": "New Port Richey, FL 34656-1270", "PhyAddress": "1927 Foggy Ridge Pkwy" }, "geometry": { "type": "Point", "coordinates": [ -82.418532110574887, 28.185070543482961 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Crown Castle GTGTE Wireless", "HT_FT": "165", "MailingCit": "Land O Lakes, FL 34639-1844", "PhyAddress": "Ten Cent Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.427860669131135, 28.284316146134135 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Crown Castle GT\/GTE Mobilenet", "HT_FT": "160", "MailingCit": "Mc Murray, PA 15317-2520", "PhyAddress": "6242 Durango Ave" }, "geometry": { "type": "Point", "coordinates": [ -82.710990000422441, 28.217900000144606 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Crown Castle GT\/GTE Mobilenet", "HT_FT": "199", "MailingCit": "Mc Murray, PA 15317-2520", "PhyAddress": "9451 U.S. 301" }, "geometry": { "type": "Point", "coordinates": [ -82.190014692546001, 28.295281958601667 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Crown Castle GT\/GTE Mobilenet", "HT_FT": "199", "MailingCit": "Zephyrhills, FL 33543-6002", "PhyAddress": "4019 Smith Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.304098366369729, 28.215456190546028 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Crown Castle GT\/GTE Mobilenet", "HT_FT": "150", "MailingCit": "Mc Murray, PA 15317-2520", "PhyAddress": "8618 Squib Dr" }, "geometry": { "type": "Point", "coordinates": [ -82.71105642927661, 28.282454674741938 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Crown Castle GT", "HT_FT": "161", "MailingCit": "Hudson, FL 34674-5130", "PhyAddress": "9644 Moon Lake Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.61705343777696, 28.297400404257626 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Crown Castle GT\/Cingular Wireless", "HT_FT": "151", "MailingCit": "Zephyrhills, FL 33541-1347", "PhyAddress": "2528 SR 581" }, "geometry": { "type": "Point", "coordinates": [ -82.352931263313678, 28.19381940796082 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Crown Castle South LLC\/Cingular Wireless", "HT_FT": "250", "MailingCit": "Hudson, FL 34667-3911", "PhyAddress": "11744 Giddens Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.513440000423856, 28.328709999824888 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Crown Castle South LLC\/T-Mobile\/S&M Ent.", "HT_FT": "250", "MailingCit": "Dade City, FL 33523-6620", "PhyAddress": "20706 U.S. 301" }, "geometry": { "type": "Point", "coordinates": [ -82.184173426035585, 28.45885086004327 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Crown Castle South LLC", "HT_FT": "197", "MailingCit": "Zephyrhills, FL 33541-6652", "PhyAddress": "37150 Chancey Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.201707392620762, 28.206902908220552 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Crown Communications\/T-Mobile", "HT_FT": "380\/625", "MailingCit": "Mc Murray,, PA 15317-2520", "PhyAddress": "12525 Gladwin Ave" }, "geometry": { "type": "Point", "coordinates": [ -82.607836940491495, 28.402248793748747 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Florida Power\/T-Mobile", "HT_FT": "120-180", "MailingCit": "St Petersburg, FL 33733-4042", "PhyAddress": "8105 Ridge Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.681460000238033, 28.281689999929608 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Florida Power\/Pasco County", "HT_FT": "220", "MailingCit": "Wesley Chapel, FL 33544-8764", "PhyAddress": null }, "geometry": { "type": "Point", "coordinates": [ -82.376744702472877, 28.200099104481154 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Global Signal Acquistion\/T-Mobile", "HT_FT": "160\/175", "MailingCit": "Hudson, FL 34674-5036", "PhyAddress": "14128 Plum Ln" }, "geometry": { "type": "Point", "coordinates": [ -82.696560834878468, 28.363841555089813 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Global Signal Acquistion\/T-Mobile\/Pocha Edna", "HT_FT": "161", "MailingCit": "Wesley Chapel, FL33544-5122", "PhyAddress": "5995 Sandy Ln" }, "geometry": { "type": "Point", "coordinates": [ -82.388109999988728, 28.258030000201227 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile\/Sprint", "HT_FT": "152", "MailingCit": "Tampa, FL33687-0298", "PhyAddress": "26615 Wesley Chapel Blvd" }, "geometry": { "type": "Point", "coordinates": [ -82.376823875544787, 28.228986220271626 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Pasco County\/City of St. Pete", "HT_FT": "489", "MailingCit": "Clearwater, FL33763-1102", "PhyAddress": "1536 Swiftmud Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.371801485505827, 28.312393218749165 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Pasco County- Purchase", "HT_FT": "280\/298", "MailingCit": "New Port Richey, FL 34653-2359", "PhyAddress": "8834 Government Dr" }, "geometry": { "type": "Point", "coordinates": [ -82.666945699980104, 28.268073259286428 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Pinnacle Tower\/T-Mobile\/RJ Nathe", "HT_FT": "180\/371", "MailingCit": "Dade City, FL 33523-7432", "PhyAddress": "10140 Mc Kendree Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.311279376320059, 28.305228043091351 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Pinnacle Tower\/Swartzman", "HT_FT": "302", "MailingCit": "Arnoldsville. GA 30619-2600", "PhyAddress": "11138 U.S. 19" }, "geometry": { "type": "Point", "coordinates": [ -82.6977385979404, 28.320123812871497 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Pinnacle Tower\/Kerrigan Dennis", "HT_FT": "190", "MailingCit": "Holiday, FL 34690-5534", "PhyAddress": "4701 Bartelt Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.736399999493457, 28.18495999974115 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Roberts Communication", "HT_FT": "400-460", "MailingCit": "Palatka, FL 32177-2415", "PhyAddress": "11112 Patrick Ave" }, "geometry": { "type": "Point", "coordinates": [ -82.630133746748058, 28.368967374214943 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Spectrasite Comm\/T-Mobile", "HT_FT": "240", "MailingCit": "Dade City, FL 33525-7311", "PhyAddress": "31336 St Joe Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.296545329519233, 28.375573599592538 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Spectrasite Comm\/T-Mobile\/Creeley David", "HT_FT": "203\/248", "MailingCit": "Lutz, FL 33559-7202", "PhyAddress": "25356 Wesley Chapel Blvd" }, "geometry": { "type": "Point", "coordinates": [ -82.395055255750961, 28.202579820070603 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Spectrasite Comm\/T-Mobile", "HT_FT": "260\/263", "MailingCit": "Wesley Chapel, FL 33545-2193", "PhyAddress": "8442 Old Pasco Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.327242469538092, 28.279414071372763 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Sprint PCS\/T-Mobile", "HT_FT": "120", "MailingCit": "Land O Lakes, FL 34638-2826", "PhyAddress": "12223 Chicago Ave??" }, "geometry": { "type": "Point", "coordinates": [ -82.658219197489245, 28.334841349395056 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Sprint PCS", "HT_FT": "190", "MailingCit": "Zephyrhills, FL 33542-6237", "PhyAddress": "8551 U.S. 98" }, "geometry": { "type": "Point", "coordinates": [ -82.116610747589419, 28.279222177525952 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "TECO", "HT_FT": "195", "MailingCit": "Tampa, FL 33601-0111", "PhyAddress": "39403 County Line Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.165018084552173, 28.172185684408046 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "132", "MailingCit": "Spring Hill, FL 34610-2929", "PhyAddress": "13440 U.S. 41" }, "geometry": { "type": "Point", "coordinates": [ -82.504252301332556, 28.353323239585478 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile\/APT", "HT_FT": "164-169", "MailingCit": "Port Richey, FL 34668-7413", "PhyAddress": "12077 Moon Lake Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.606774547109254, 28.330901955217421 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "131\/136", "MailingCit": "Houston, TX 77251-1500", "PhyAddress": "1714 Dale Mabry Hwy" }, "geometry": { "type": "Point", "coordinates": [ -82.467429047314099, 28.182001286461009 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "172", "MailingCit": "Land O Lakes, FL 34639-0443", "PhyAddress": "7735 Land O Lakes Blvd" }, "geometry": { "type": "Point", "coordinates": [ -82.484846440944466, 28.268503703513375 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "164", "MailingCit": "Spring Hill, FL 34610-2221", "PhyAddress": "18249 U.S. 41" }, "geometry": { "type": "Point", "coordinates": [ -82.469110000119358, 28.423619999723776 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "60\/170", "MailingCit": "New Port Richey, FL 34653-2359", "PhyAddress": "2141 Seven Springs Blvd" }, "geometry": { "type": "Point", "coordinates": [ -82.699847737076922, 28.190013044995624 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Verizon Wireless\/Florida Power", "HT_FT": "186", "MailingCit": "St Petersburg, FL 33733-4042", "PhyAddress": "13220 SR 54" }, "geometry": { "type": "Point", "coordinates": [ -82.596873064935835, 28.19295814386906 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Verizon Wireless", "HT_FT": "150", "MailingCit": "Hudson, FL 34667-4339", "PhyAddress": "9226 Denton Ave" }, "geometry": { "type": "Point", "coordinates": [ -82.661399134914916, 28.388520589981709 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Verizon Wireless\/T-Mobile\/St. George Greek Ortho", "HT_FT": null, "MailingCit": "New Port Richey, FL 34654-3417", "PhyAddress": "9426 Little Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.674476019917336, 28.295341380885986 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "WTSP-TV", "HT_FT": "1472", "MailingCit": "St Petersburg, FL 33702-1908", "PhyAddress": "1810 Solar Dr" }, "geometry": { "type": "Point", "coordinates": [ -82.760670899766666, 28.184747387722272 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "WXTB", "HT_FT": "1248-1537", "MailingCit": "Tampa, FL 33611-3410", "PhyAddress": "1503 Dartmouth Dr" }, "geometry": { "type": "Point", "coordinates": [ -82.767805158393941, 28.182631478792189 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "WREC", "HT_FT": "195", "MailingCit": "Dade City, FL 33526-0278", "PhyAddress": "7844 SR 54" }, "geometry": { "type": "Point", "coordinates": [ -82.684195391679523, 28.216151981318983 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Alltel Wireless Holdings\/T-Mobile", "HT_FT": "240\/287", "MailingCit": "Little Rock, AR 72203-2177", "PhyAddress": "13318 SR 54" }, "geometry": { "type": "Point", "coordinates": [ -82.594965229252537, 28.193244386809862 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "American Tower Corp", "HT_FT": "200", "MailingCit": "Tampa, FL 33614-6532", "PhyAddress": "8032 U.S. 19" }, "geometry": { "type": "Point", "coordinates": [ -82.721287530946185, 28.274367012302683 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "AT&T Mobility LLC", "HT_FT": "299", "MailingCit": "Dade City, FL 33526-0278", "PhyAddress": "14541 21st St" }, "geometry": { "type": "Point", "coordinates": [ -82.206769004293335, 28.370265164474436 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "AT&T Mobility LLC", "HT_FT": "305", "MailingCit": "Land O Lakes, FL 34638-2826", "PhyAddress": "7205 Land O Lakes Blvd" }, "geometry": { "type": "Point", "coordinates": [ -82.479700290293351, 28.263471791998516 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "AT&T Mobility LLC", "HT_FT": "195", "MailingCit": "Tampa, FL33607-1435", "PhyAddress": "17701 U.S. 41" }, "geometry": { "type": "Point", "coordinates": [ -82.473638396852209, 28.4153639632578 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Bright House Networks", "HT_FT": null, "MailingCit": "Syracuse, NY 13221-4739", "PhyAddress": "3717 Grand Blvd" }, "geometry": { "type": "Point", "coordinates": [ -82.724013551519988, 28.213199875659459 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Bright House Networks", "HT_FT": "100", "MailingCit": "Syracuse, NY 13221-4739", "PhyAddress": "16616 Shady Hills Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.549796123085329, 28.399382005537813 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Clements Claire", "HT_FT": "400", "MailingCit": "Tampa, FL 33615-2126", "PhyAddress": "18445 Clay" }, "geometry": { "type": "Point", "coordinates": [ -82.263807901945967, 28.425954636057138 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Crown Castle GT", "HT_FT": "220", "MailingCit": "Mc Murray,, PA 15317-2520", "PhyAddress": "37512 Desrosier Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.195169215616971, 28.409449593371125 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Crown Castle GT", "HT_FT": "198", "MailingCit": "Mc Murray, PA 15317-2520", "PhyAddress": "18747 Greenfield Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.505514373339949, 28.354160666331804 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Crown Castle GT\/T-Mobile\/Dexter Timothy", "HT_FT": "285-295", "MailingCit": "Mc Murray,, PA15317-2520", "PhyAddress": "38508 B Ave" }, "geometry": { "type": "Point", "coordinates": [ -82.179163203507358, 28.227869033093789 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Crown Castle South LLC", "HT_FT": "255", "MailingCit": "New Port Richey, FL 34652-1635", "PhyAddress": "7923 Clark Moody Blvd" }, "geometry": { "type": "Point", "coordinates": [ -82.715004558715506, 28.27263980680436 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "CSX transportation", "HT_FT": "285", "MailingCit": "Dade City, FL 33526-1355", "PhyAddress": "14206 U.S. 98 Byp" }, "geometry": { "type": "Point", "coordinates": [ -82.18441999990462, 28.364679999869665 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "FDOT", "HT_FT": "278", "MailingCit": "Tampa, FL 33612-6456", "PhyAddress": "Blanton Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.287784267189593, 28.420289830557902 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Florida Power", "HT_FT": "154", "MailingCit": "St Petersburg, FL 33733-4042", "PhyAddress": "37834 SR 54" }, "geometry": { "type": "Point", "coordinates": [ -82.190833766319415, 28.229253750575335 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Florida Power", "HT_FT": "280", "MailingCit": "St Petersburg, FL 33733-4042", "PhyAddress": "21315 SR 54" }, "geometry": { "type": "Point", "coordinates": [ -82.463191377508451, 28.191564099931831 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Foreit Self Storage Inc\/T-Mobile", "HT_FT": "350", "MailingCit": "Indian Rocks Beach, FL 33785-0275", "PhyAddress": "4547 Voorhees Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.704190000301878, 28.225349999889655 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Krusen Family (idle)", "HT_FT": "200", "MailingCit": "Tampa, FL 33606-2590", "PhyAddress": "9551 U.S. 301" }, "geometry": { "type": "Point", "coordinates": [ -82.189450000099313, 28.296950000295215 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Pasco County Sheriff", "HT_FT": "285", "MailingCit": "New Port Richey, FL 34653-2359", "PhyAddress": "37312 Howard Ave" }, "geometry": { "type": "Point", "coordinates": [ -82.198762490603244, 28.360782431998921 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Pinnacle Tower\/T-Mobile\/Cingular Wireless", "HT_FT": "395", "MailingCit": "Sarasota, FL 34232-6430", "PhyAddress": "8326 Moon Lake Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.618440729252001, 28.276963031898145 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Radio Training Network", "HT_FT": "320", "MailingCit": "Lakeland, FL 33807-7217", "PhyAddress": "6214 Springer Dr" }, "geometry": { "type": "Point", "coordinates": [ -82.711900000331283, 28.283049999751 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "SBA Towers\/T-Mobile", "HT_FT": "280", "MailingCit": "Boca Raton, FL 33487-2797", "PhyAddress": "10407 SR 54" }, "geometry": { "type": "Point", "coordinates": [ -82.643148750963448, 28.198626754762437 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "SBA Towers", "HT_FT": "190", "MailingCit": "Trinity, FL 34655-1811", "PhyAddress": "3451 Little Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.668389999603917, 28.210680000371855 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Spectrasite Comm", "HT_FT": "180", "MailingCit": "Palm Harbor, FL 34685-1040", "PhyAddress": "7912 Grand Blvd" }, "geometry": { "type": "Point", "coordinates": [ -82.721541072695842, 28.272174354155332 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Sprint Florida", "HT_FT": "300", "MailingCit": "Overland, Park, KS 66207-0909", "PhyAddress": "37810 Meridian Av" }, "geometry": { "type": "Point", "coordinates": [ -82.190700000332185, 28.363899999782642 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "TECO", "HT_FT": "275\/290", "MailingCit": "Tampa, FL 33601-0111", "PhyAddress": "14633 14th St" }, "geometry": { "type": "Point", "coordinates": [ -82.196217562655733, 28.371691188148308 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Thompson Frances", "HT_FT": null, "MailingCit": "Dade City, FL 33526-1023", "PhyAddress": "37616 Bailey Hill Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.193856445459303, 28.287920577297637 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "136", "MailingCit": "Port Richey, FL 34668-5310", "PhyAddress": "6249 Old Ridge Rd" }, "geometry": { "type": "Point", "coordinates": [ -82.710638682985476, 28.281458659949049 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "T-Mobile", "HT_FT": "136", "MailingCit": "Holiday, FL 34690-3002", "PhyAddress": "2623 Grand Blvd" }, "geometry": { "type": "Point", "coordinates": [ -82.724038135624824, 28.196941291737609 ] } },
-{ "type": "Feature", "properties": { "TOWEROWNER": "Verizon Wireless", "HT_FT": "180", "MailingCit": "Land O Lakes, FL 34639-0296", "PhyAddress": "5911 Ehren Cutoff" }, "geometry": { "type": "Point", "coordinates": [ -82.456146607229698, 28.244000549577141 ] } }
-]
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Ridan",
+        "HT_FT": "160",
+        "MailingCit": "Zephyrhills, FL 33543-5527",
+        "PhyAddress": "1828 Upper Rd",
+        "Mapped": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.25814781868753,
+          28.1836362098285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "100",
+        "MailingCit": "Houston, TX 77098-3725",
+        "PhyAddress": "22920 SR 54",
+        "Mapped": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.43755362024635,
+          28.18342841160096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Verizon Wireless",
+        "HT_FT": "198",
+        "MailingCit": "Wesley Chapel, FL33545-0100",
+        "PhyAddress": "5751 Pointe Pleasant Blvd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34476306048812,
+          28.240771208882226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Verizon Wireless",
+        "HT_FT": null,
+        "MailingCit": "St Petersburg, FL 33733-4042",
+        "PhyAddress": "8101 Leo Kidd Ave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.71586507854666,
+          28.274518618994982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Verizon Wireless",
+        "HT_FT": "180/185",
+        "MailingCit": "New Port Richey, FL 34653-2359",
+        "PhyAddress": "2849 Oakcrest Pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4308584868867,
+          28.198064083596755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "WDCF (Field)",
+        "HT_FT": "204",
+        "MailingCit": "Clearwater, , FL33765-2216",
+        "PhyAddress": "37905 Wdcf Dr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.18964123458574,
+          28.335544275260098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "WPSO AM",
+        "HT_FT": "303",
+        "MailingCit": "Clearwater, FL 33761-1736",
+        "PhyAddress": "5113 Palmetto Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.72912835068087,
+          28.25915014843644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "WTBN",
+        "HT_FT": "405",
+        "MailingCit": "Camarillo, CA  93012-0958",
+        "PhyAddress": "17215 SR 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.52986346475268,
+          28.212956103979945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "WTBN",
+        "HT_FT": "406",
+        "MailingCit": "Camarillo, CA  93012-0958",
+        "PhyAddress": "17215 SR 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.53052472180048,
+          28.211931561595367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "WTBN",
+        "HT_FT": "406",
+        "MailingCit": "Camarillo, CA  93012-0958",
+        "PhyAddress": "17215 SR 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5273609714205,
+          28.21193645900994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "WTBN",
+        "HT_FT": "405",
+        "MailingCit": "Camarillo, CA  93012-0958",
+        "PhyAddress": "17215 SR 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.53118363106086,
+          28.210898892016836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "WTBN",
+        "HT_FT": "406",
+        "MailingCit": "Camarillo, CA  93012-0958",
+        "PhyAddress": "17215 SR 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.52337000016561,
+          28.21082999964179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "WTBN",
+        "HT_FT": "406",
+        "MailingCit": "Camarillo, CA  93012-0958",
+        "PhyAddress": "17215 SR 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.52895722186781,
+          28.209550613341342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "WYFE -88.9",
+        "HT_FT": "490",
+        "MailingCit": "Charlotte NC  28241-7300",
+        "PhyAddress": "Arcola Av"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6737070779749,
+          28.377937071365967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "WZHR",
+        "HT_FT": "190",
+        "MailingCit": "Zephyrhills, FL 33541-7416",
+        "PhyAddress": "8635 Fort King Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.20768073950373,
+          28.28342634454111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "GTP Acquisition/T-Mobile",
+        "HT_FT": "160/170",
+        "MailingCit": "Land O Lakes, FL 34639-0489",
+        "PhyAddress": "4533 Savanah Dr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4311370024097,
+          28.224289200955784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Cingular Wireless",
+        "HT_FT": null,
+        "MailingCit": "Zephyrhills, FL33542-4312",
+        "PhyAddress": "5337 8th St"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.18119927220506,
+          28.235453957485557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "American Tower Corp/T-Mobile/Belanger",
+        "HT_FT": "250",
+        "MailingCit": "Wesley Chapel, FL33544-2806",
+        "PhyAddress": "4241 Lado Dr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2640883626368,
+          28.219060684021397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "N/A",
+        "HT_FT": null,
+        "MailingCit": "Palm Beach Garden, FL33410-2810",
+        "PhyAddress": "7131 Mitchell Blvd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.69655815463446,
+          28.18289290331963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "N/A",
+        "HT_FT": null,
+        "MailingCit": "St. Petersburg, FL 33733-4042",
+        "PhyAddress": "7948 Mitchell Ranch Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6822024417945,
+          28.203108876011115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "N/A",
+        "HT_FT": null,
+        "MailingCit": "Zephyrhills, FL 33543-9201",
+        "PhyAddress": "1004 Morris Bridge Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.26011172449516,
+          28.172207426695678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "N/A",
+        "HT_FT": "185",
+        "MailingCit": "Odessa, FL 33556-0226",
+        "PhyAddress": "14325 Black Lake Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5714604338475,
+          28.19125772242876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "N/A",
+        "HT_FT": null,
+        "MailingCit": "Lutz, FL 33548-6406",
+        "PhyAddress": "25350 S.R. 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4002344740618,
+          28.186913860745754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": null,
+        "HT_FT": null,
+        "MailingCit": "Deerfield, IL 60015-5121",
+        "PhyAddress": "28113 S.R. 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34988294941353,
+          28.23673152331333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "N/A",
+        "HT_FT": null,
+        "MailingCit": "DADE CITY, FL 33525-8275",
+        "PhyAddress": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.18727114983473,
+          28.29555529123139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "N/A",
+        "HT_FT": null,
+        "MailingCit": "Odessa, FL 33556-3877",
+        "PhyAddress": "15099 County Line Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56641229625049,
+          28.173593048717784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "N/A",
+        "HT_FT": null,
+        "MailingCit": "LAND O LAKES, FL 34639-8121",
+        "PhyAddress": "16025 U.S. 41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.49039269606412,
+          28.393242613024974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "N/A",
+        "HT_FT": null,
+        "MailingCit": "Spring Hill, FL 34606-6410",
+        "PhyAddress": "7509 Rottingham Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6903429026125,
+          28.31613721076888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Verizon Wireless",
+        "HT_FT": "230",
+        "MailingCit": "Land O Lakes, FL 34638-6801",
+        "PhyAddress": "18027 Williams Lp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.51795324653654,
+          28.32001977102223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "AT&T Mobility LLC",
+        "HT_FT": "299",
+        "MailingCit": "Dade City, , FL 33526-0278",
+        "PhyAddress": "6830 SR 52"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.70104590639534,
+          28.330447500754843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Crown Castle South LLC",
+        "HT_FT": "240",
+        "MailingCit": "Brooksville, FL34601-5342",
+        "PhyAddress": "16700 U.S. 41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.48120000040512,
+          28.400319999864493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Highpoint Tower",
+        "HT_FT": "420",
+        "MailingCit": "Sumterville, FL 33585-0010",
+        "PhyAddress": "19000 Bexley Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.54705588158785,
+          28.25253633757642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "AT&T Mobility LLC/ SBA Towers",
+        "HT_FT": "201",
+        "MailingCit": "Wesley Chapel, FL33543-6471",
+        "PhyAddress": "5831 Pointe Pleasant Blvd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34429495753831,
+          28.241382141627433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Spectrasite Comm",
+        "HT_FT": "270",
+        "MailingCit": "Tampa, FL33618-2161",
+        "PhyAddress": "19955 Bexley Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.48546204380801,
+          28.254086903070718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "195",
+        "MailingCit": "Holiday, FL 34690-3002",
+        "PhyAddress": "6115 Baker Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.69980883287623,
+          28.2481727977289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "199",
+        "MailingCit": "New Port Richey, FL 34653-2359",
+        "PhyAddress": "5000 Little Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6600499999766,
+          28.23230999978366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "170",
+        "MailingCit": "New Port Richey, FL 34654-2506",
+        "PhyAddress": "10534 Little Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66462903023988,
+          28.311245883186015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Verizon Wireless",
+        "HT_FT": null,
+        "MailingCit": "Tampa, FL 33647-2774",
+        "PhyAddress": "30435 Commerce Dr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.31421278379314,
+          28.329128376263487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "165",
+        "MailingCit": "Port Richey, FL 34668-5310",
+        "PhyAddress": "10622 Harris Lp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.63794262075112,
+          28.429301714741637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "200",
+        "MailingCit": "Sarasota, FL 34236-7801",
+        "PhyAddress": "35230 S.R. 52"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.22912199865088,
+          28.33911601173526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile/Ridan Industries/Pasco County",
+        "HT_FT": "150-180",
+        "MailingCit": "New Port Richey, FL 34653-2359",
+        "PhyAddress": "6911 Fox Hollow Dr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.70030999954201,
+          28.303229999643012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile/Crown Castle/cingular Wireless",
+        "HT_FT": "150",
+        "MailingCit": "Tampa, FL33606-2744",
+        "PhyAddress": "5104 Land O Lakes Blvd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4575999995231,
+          28.23069999975574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile USA/WREC",
+        "HT_FT": "195",
+        "MailingCit": "Dade City, FL 33526-0278",
+        "PhyAddress": "6940 Curley Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2942599995091,
+          28.258220000321607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile/WREC",
+        "HT_FT": "300",
+        "MailingCit": "Dade City, FL 33523-2920",
+        "PhyAddress": "12013 Hays Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.57005000035859,
+          28.333140000108724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile/Mazzuco Philip",
+        "HT_FT": "190/206",
+        "MailingCit": "Spring Hill, FL 34611-5159",
+        "PhyAddress": "18824 County Line Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.50486200071072,
+          28.430651403918773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile USA/SBA Towers/FL Property Holdings",
+        "HT_FT": "200",
+        "MailingCit": "Spring Hill, FL 34609-5708",
+        "PhyAddress": "18805 Old Shady Hills Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55168000034925,
+          28.4307499998985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile USA",
+        "HT_FT": "150",
+        "MailingCit": "Zephyrhills, FL33539-2176",
+        "PhyAddress": "35527 Old Geiger Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.229529999591,
+          28.24470000000843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "AT&T Mobility LLC/T-Mobile, Pasco Sportsmans",
+        "HT_FT": "200",
+        "MailingCit": "Grosse Pointe, MI 48230-1420",
+        "PhyAddress": "18916 Titus Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.60944999959396,
+          28.43261000042887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile USA/Ridan",
+        "HT_FT": "120",
+        "MailingCit": "Hudson, FL 34674-5241",
+        "PhyAddress": "13219 Fivay Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.67897515471175,
+          28.348905591696766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "250",
+        "MailingCit": "Malvern, PA 19355-1425",
+        "PhyAddress": "8323 Corporate Way"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.67689000038791,
+          28.25773000021239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile USA",
+        "HT_FT": "60",
+        "MailingCit": "West, Palm Beach, FL 33401-5421",
+        "PhyAddress": "2435 U.S.  19 N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.74064000011299,
+          28.194880000181765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Salem Radio",
+        "HT_FT": "40",
+        "MailingCit": "Trinity, FL 34655-5347",
+        "PhyAddress": "1436 Tawnyberry Ct"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.67013262300085,
+          28.180387194083647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Pasco County",
+        "HT_FT": null,
+        "MailingCit": "New Port Richey, FL 34653-2359",
+        "PhyAddress": "14230 Hays Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56062532950172,
+          28.370198285788327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Brooks Joseph",
+        "HT_FT": "120",
+        "MailingCit": "Lutz, FL 33548-4411",
+        "PhyAddress": "10125 Land O lakes Blvd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5000137622982,
+          28.304464567130132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Stubbs Farm",
+        "HT_FT": "400",
+        "MailingCit": "Dade City, FL 33525-1834",
+        "PhyAddress": "2101 Power Line Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.20629088464285,
+          28.391587597840687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Verrelli Angelo",
+        "HT_FT": null,
+        "MailingCit": "Ridge Manor, FL 33523-8921",
+        "PhyAddress": "20616 US 98"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.18960916367016,
+          28.45916628680156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Vertex",
+        "HT_FT": "160",
+        "MailingCit": "Thonotosassa, FL 33592-2301",
+        "PhyAddress": "1004 Morris Bridge Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2560156837177,
+          28.172857515298222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Sprint/Ridan",
+        "HT_FT": "154",
+        "MailingCit": "Tampa, FL 33613-5235",
+        "PhyAddress": "1500 Meadow Pointe Blvd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29258333571828,
+          28.17888583946547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "WREC",
+        "HT_FT": "194",
+        "MailingCit": "Dade City, FL 33526-0278",
+        "PhyAddress": "4947 Smith Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29999921379326,
+          28.228388766506296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Hopkins Dwight",
+        "HT_FT": "180",
+        "MailingCit": "Wesley Chapel, FL 33543-4215",
+        "PhyAddress": "28555 SR 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34336068283022,
+          28.239056717738137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Dexter Timothy",
+        "HT_FT": null,
+        "MailingCit": "Wesley Chapel, FL33544-3427",
+        "PhyAddress": "26647 Wesley Chapel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.37540415738204,
+          28.229056705783115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "235",
+        "MailingCit": "Land O Lakes, FL 34638-5703",
+        "PhyAddress": "23818 SR 52"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42190103792599,
+          28.320293795441497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Bible Broadcasting",
+        "HT_FT": null,
+        "MailingCit": "Hudson, FL 34667-3622",
+        "PhyAddress": "8323 Arcola Ave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.67723555029328,
+          28.378868955222043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Myers Johnnie",
+        "HT_FT": null,
+        "MailingCit": "New Port Richey, FL 34652-1741",
+        "PhyAddress": "12214 US 19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.69846197034754,
+          28.33474966118696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Glendale Federal",
+        "HT_FT": null,
+        "MailingCit": "New Port Richey, FL 34656-1085",
+        "PhyAddress": "9501US 19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.70917817729121,
+          28.29497742022282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Daquino Nicholas",
+        "HT_FT": null,
+        "MailingCit": "Port Richey, FL 34668-4204",
+        "PhyAddress": "9803 Clinton Ln"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.67339331082631,
+          28.299753337080134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Living Word Church",
+        "HT_FT": null,
+        "MailingCit": "New Port Richey, FL 34653-4973",
+        "PhyAddress": "5151 Rowan Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.69598252571436,
+          28.234025824229164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "WTBN",
+        "HT_FT": "406",
+        "MailingCit": "Camarillo, CA  93012-0958",
+        "PhyAddress": "17215 SR 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.52337000016561,
+          28.21082999964179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Bright House Networks",
+        "HT_FT": "204",
+        "MailingCit": "Syracuse, NY 13221-4739",
+        "PhyAddress": "10555 Moon Lake Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6205440162189,
+          28.311079054853014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Bright House Networks",
+        "HT_FT": null,
+        "MailingCit": "Syracuse, NY 13221-4739",
+        "PhyAddress": "12384 U.S. 19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.69695221051094,
+          28.336214775777773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Crown Castle South LLC",
+        "HT_FT": "257",
+        "MailingCit": "Alpharetta, GA  30004-8502",
+        "PhyAddress": "16731 Bachmann Ave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66244310350572,
+          28.400728536632958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Florida Power",
+        "HT_FT": null,
+        "MailingCit": "St Petersburg, FL 33733-4042",
+        "PhyAddress": "3240 Grand Blvd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.72162428378427,
+          28.20645924622055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "WTBN",
+        "HT_FT": "406",
+        "MailingCit": "Camarillo, CA  93012-0958",
+        "PhyAddress": "17215 SR 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.52337000016561,
+          28.21082999964179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "140",
+        "MailingCit": "New Port Richey, FL 34654-1942",
+        "PhyAddress": "6235 Old Ridge Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.71082347749318,
+          28.281157170259075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "170",
+        "MailingCit": "New Port Richey, FL 34652-1741",
+        "PhyAddress": "12218 U.S. 19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.69832999968476,
+          28.334720000058883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "165",
+        "MailingCit": "San Antonio, FL33576-1211",
+        "PhyAddress": "28113 S.R. 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3441700001527,
+          28.244719999636057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "195",
+        "MailingCit": "Zephyrhills, FL 33542-4312",
+        "PhyAddress": "38122 Henry Dr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1859830816838,
+          28.247985253316315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": null,
+        "MailingCit": "Brooksville, FL 34610-2134",
+        "PhyAddress": "18247 U.S. 41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46860999992856,
+          28.42250000021726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "170",
+        "MailingCit": "Hudson, FL 34667-2564",
+        "PhyAddress": "12077 Moon Lake Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.63611000000327,
+          28.33389000010097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "300",
+        "MailingCit": "Brooksville, FL 34604-6899",
+        "PhyAddress": "19010 Bexley Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55528000018082,
+          28.261940000392006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "150",
+        "MailingCit": "New Port Richey, FL 34655-2904",
+        "PhyAddress": "7948 Mitchell Ranch Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66954999965132,
+          28.215730000067552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile USA",
+        "HT_FT": "150",
+        "MailingCit": "New Port Richey, FL 34652-5948",
+        "PhyAddress": "4113 US 19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.73803000043407,
+          28.2187599995546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "131",
+        "MailingCit": "Birmingham AL  35223-2321",
+        "PhyAddress": "8923 Mitchell Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66920999999826,
+          28.18750999972565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile USA",
+        "HT_FT": null,
+        "MailingCit": "Land O Lakes, FL 34638-2826",
+        "PhyAddress": "2025 Mansfield Blvd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3164600003755,
+          28.188069999765847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "140",
+        "MailingCit": "St Petersburg, FL 33733-4042",
+        "PhyAddress": "15626 Olney Ln"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.55832626432132,
+          28.406345756673925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "160",
+        "MailingCit": "Tampa, FL 33612-7601",
+        "PhyAddress": "16915 S.R. 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.53742613468508,
+          28.195317059035414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile USA",
+        "HT_FT": "300/320",
+        "MailingCit": "Sarasota, FL 34236-7801",
+        "PhyAddress": "15841 Antler Ln"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.53346645172073,
+          28.387909663597263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile USA",
+        "HT_FT": "130",
+        "MailingCit": "Port Richey, FL 34668-2648",
+        "PhyAddress": "7509 Rottingham Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.68890000047413,
+          28.316569999570795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": null,
+        "MailingCit": null,
+        "PhyAddress": "107 Est County Line Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.15670000032355,
+          28.171399999677742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": null,
+        "MailingCit": null,
+        "PhyAddress": "17040 U.S. 301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.21189999967821,
+          28.17100000011476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": null,
+        "MailingCit": null,
+        "PhyAddress": "5004 Grand Blvd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.21189999967821,
+          28.17100000011476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": null,
+        "MailingCit": null,
+        "PhyAddress": "19219 Hiawatha Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56616000044181,
+          28.160350000070984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "N/A",
+        "HT_FT": "180",
+        "MailingCit": "San Antonio, FL 33576-0483",
+        "PhyAddress": "32817 Leonard Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.27296184668016,
+          28.312481595753475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "N/A",
+        "HT_FT": "120",
+        "MailingCit": "Trinity, FL 34655-4401",
+        "PhyAddress": "2420 Welbilt Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.67857246794108,
+          28.19383443075787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Vertex",
+        "HT_FT": "160",
+        "MailingCit": "DADE CITY, FL 33525-8279",
+        "PhyAddress": "10219 Wirt Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.27076803703812,
+          28.306122607572927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "AllTel",
+        "HT_FT": "185",
+        "MailingCit": "Zephyrhills, FL 33541-2226",
+        "PhyAddress": "4531 Windy Ln"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.23800112770269,
+          28.223264796133915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Nextel",
+        "HT_FT": null,
+        "MailingCit": "DADE CITY, FL 33525-7323",
+        "PhyAddress": "3315 Celtic Dr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34646967613759,
+          28.37837603825691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "125",
+        "MailingCit": "New Port Richey, FL 34652-8007",
+        "PhyAddress": "3315CELTIC DR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.70003811494713,
+          28.20919575812711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Vertex",
+        "HT_FT": "160",
+        "MailingCit": "Jacksonville, FL 32217-2740",
+        "PhyAddress": "Silver Maple Pkwy (SR 56 at I-75)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.38179468081147,
+          28.18808811369737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Vertex",
+        "HT_FT": "150",
+        "MailingCit": "Zephyrhills, FL 33539-1360",
+        "PhyAddress": "8248 Handcart Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.24390451914253,
+          28.277985994944416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "American Tower Corp/Congular Wireless/Redbrook",
+        "HT_FT": "197",
+        "MailingCit": "Land O Lakes, FL 34639-5438",
+        "PhyAddress": "2409 Old Cypress Creek Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40173145959695,
+          28.191760318635634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "American Tower Corp",
+        "HT_FT": "300",
+        "MailingCit": "Dade City, FL 33525-8520",
+        "PhyAddress": "10602 Fort King Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.20045518799512,
+          28.314139974398287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "American Tower Corp",
+        "HT_FT": "250",
+        "MailingCit": "Hudson, FL 34669-3063",
+        "PhyAddress": "13448 SR 52"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.59228685496602,
+          28.328659188907277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "American Tower Corp",
+        "HT_FT": "300",
+        "MailingCit": "Dade City, FL 33523-6239",
+        "PhyAddress": "32305 Blanton Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.28098252924404,
+          28.422926745174472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "American Tower Corp",
+        "HT_FT": "432",
+        "MailingCit": "Tampa, FL 33614-6532",
+        "PhyAddress": "20239 U.S. 301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.18903147678482,
+          28.452100610725505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "American Tower Corp",
+        "HT_FT": "242",
+        "MailingCit": "Tampa, FL 33614-6532",
+        "PhyAddress": "6935 Elwood Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.13890822566027,
+          28.258692742296564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "American Tower Corp/Weltmore Scott",
+        "HT_FT": "298-300",
+        "MailingCit": "Tampa, FL 33614-6532",
+        "PhyAddress": "20839 Leonard Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.47268315922369,
+          28.18920477753686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "American Tower Corp",
+        "HT_FT": "400",
+        "MailingCit": "Tampa, FL 33614-6532",
+        "PhyAddress": "11051Denton Ave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.63219567200747,
+          28.392305909606712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "AT&T Mobility LLC",
+        "HT_FT": "200",
+        "MailingCit": "Dade City, , FL 33523-6119",
+        "PhyAddress": "30351 Johnston Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.31568906781538,
+          28.405743773363163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "AT & T Mobility LLC/T-Mobile/Juan Citrus Partnership",
+        "HT_FT": "198-200",
+        "MailingCit": "New Port Richey, FL 34652-3922",
+        "PhyAddress": "5010 Grand Blvd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.72295987391509,
+          28.231990543341414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "AT&T Mobility LLC/Cellular",
+        "HT_FT": "240'",
+        "MailingCit": "Zephyrhills, FL 33541-2226",
+        "PhyAddress": "34969 SR 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.23957136063136,
+          28.223025734041784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "AT&T Mobility LLC",
+        "HT_FT": "192",
+        "MailingCit": "Clearwater, FL 33762-0297",
+        "PhyAddress": "13630 Interlaken Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.58978926593632,
+          28.18703471098154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Bright House Networks",
+        "HT_FT": "148",
+        "MailingCit": "Syracuse, NY 13221-4739",
+        "PhyAddress": "30432 SR 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.31296537375624,
+          28.239552898227906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Clearshot Comm LLC/T-Mobile",
+        "HT_FT": "165/170",
+        "MailingCit": "New Port Richey, FL 34656-1270",
+        "PhyAddress": "1927 Foggy Ridge Pkwy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.41853211057489,
+          28.18507054348296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Crown Castle GTGTE Wireless",
+        "HT_FT": "165",
+        "MailingCit": "Land O Lakes, FL 34639-1844",
+        "PhyAddress": "Ten Cent Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42786066913114,
+          28.284316146134135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Crown Castle GT/GTE Mobilenet",
+        "HT_FT": "160",
+        "MailingCit": "Mc Murray, PA 15317-2520",
+        "PhyAddress": "6242 Durango Ave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.71099000042244,
+          28.217900000144606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Crown Castle GT/GTE Mobilenet",
+        "HT_FT": "199",
+        "MailingCit": "Mc Murray, PA 15317-2520",
+        "PhyAddress": "9451 U.S. 301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.190014692546,
+          28.295281958601667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Crown Castle GT/GTE Mobilenet",
+        "HT_FT": "199",
+        "MailingCit": "Zephyrhills, FL 33543-6002",
+        "PhyAddress": "4019 Smith Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.30409836636973,
+          28.21545619054603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Crown Castle GT/GTE Mobilenet",
+        "HT_FT": "150",
+        "MailingCit": "Mc Murray, PA 15317-2520",
+        "PhyAddress": "8618 Squib Dr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.71105642927661,
+          28.28245467474194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Crown Castle GT",
+        "HT_FT": "161",
+        "MailingCit": "Hudson, FL 34674-5130",
+        "PhyAddress": "9644 Moon Lake Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.61705343777696,
+          28.297400404257626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Crown Castle GT/Cingular Wireless",
+        "HT_FT": "151",
+        "MailingCit": "Zephyrhills, FL 33541-1347",
+        "PhyAddress": "2528 SR 581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35293126331368,
+          28.19381940796082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Crown Castle South LLC/Cingular Wireless",
+        "HT_FT": "250",
+        "MailingCit": "Hudson, FL 34667-3911",
+        "PhyAddress": "11744 Giddens Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.51344000042386,
+          28.328709999824888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Crown Castle South LLC/T-Mobile/S&M Ent.",
+        "HT_FT": "250",
+        "MailingCit": "Dade City, FL 33523-6620",
+        "PhyAddress": "20706 U.S. 301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.18417342603558,
+          28.45885086004327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Crown Castle South LLC",
+        "HT_FT": "197",
+        "MailingCit": "Zephyrhills, FL 33541-6652",
+        "PhyAddress": "37150 Chancey Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.20170739262076,
+          28.206902908220552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Crown Communications/T-Mobile",
+        "HT_FT": "380/625",
+        "MailingCit": "Mc Murray,, PA 15317-2520",
+        "PhyAddress": "12525 Gladwin Ave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6078369404915,
+          28.402248793748747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Florida Power/T-Mobile",
+        "HT_FT": "120-180",
+        "MailingCit": "St Petersburg, FL 33733-4042",
+        "PhyAddress": "8105 Ridge Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.68146000023803,
+          28.281689999929608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Florida Power/Pasco County",
+        "HT_FT": "220",
+        "MailingCit": "Wesley Chapel, FL 33544-8764",
+        "PhyAddress": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.37674470247288,
+          28.200099104481154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Global Signal Acquistion/T-Mobile",
+        "HT_FT": "160/175",
+        "MailingCit": "Hudson, FL 34674-5036",
+        "PhyAddress": "14128 Plum Ln"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.69656083487847,
+          28.363841555089813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Global Signal Acquistion/T-Mobile/Pocha Edna",
+        "HT_FT": "161",
+        "MailingCit": "Wesley Chapel, FL33544-5122",
+        "PhyAddress": "5995 Sandy Ln"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.38810999998873,
+          28.258030000201227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile/Sprint",
+        "HT_FT": "152",
+        "MailingCit": "Tampa, FL33687-0298",
+        "PhyAddress": "26615 Wesley Chapel Blvd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.37682387554479,
+          28.228986220271626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Pasco County/City of St. Pete",
+        "HT_FT": "489",
+        "MailingCit": "Clearwater, FL33763-1102",
+        "PhyAddress": "1536 Swiftmud Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.37180148550583,
+          28.312393218749165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Pasco County- Purchase",
+        "HT_FT": "280/298",
+        "MailingCit": "New Port Richey, FL 34653-2359",
+        "PhyAddress": "8834 Government Dr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6669456999801,
+          28.268073259286428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Pinnacle Tower/T-Mobile/RJ Nathe",
+        "HT_FT": "180/371",
+        "MailingCit": "Dade City, FL 33523-7432",
+        "PhyAddress": "10140 Mc Kendree Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.31127937632006,
+          28.30522804309135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Pinnacle Tower/Swartzman",
+        "HT_FT": "302",
+        "MailingCit": "Arnoldsville. GA 30619-2600",
+        "PhyAddress": "11138 U.S. 19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6977385979404,
+          28.320123812871497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Pinnacle Tower/Kerrigan Dennis",
+        "HT_FT": "190",
+        "MailingCit": "Holiday, FL 34690-5534",
+        "PhyAddress": "4701 Bartelt Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.73639999949346,
+          28.18495999974115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Roberts Communication",
+        "HT_FT": "400-460",
+        "MailingCit": "Palatka, FL 32177-2415",
+        "PhyAddress": "11112 Patrick Ave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.63013374674806,
+          28.368967374214943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Spectrasite Comm/T-Mobile",
+        "HT_FT": "240",
+        "MailingCit": "Dade City, FL 33525-7311",
+        "PhyAddress": "31336 St Joe Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.29654532951923,
+          28.37557359959254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Spectrasite Comm/T-Mobile/Creeley David",
+        "HT_FT": "203/248",
+        "MailingCit": "Lutz, FL 33559-7202",
+        "PhyAddress": "25356 Wesley Chapel Blvd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39505525575096,
+          28.202579820070603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Spectrasite Comm/T-Mobile",
+        "HT_FT": "260/263",
+        "MailingCit": "Wesley Chapel, FL 33545-2193",
+        "PhyAddress": "8442 Old Pasco Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.32724246953809,
+          28.279414071372763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Sprint PCS/T-Mobile",
+        "HT_FT": "120",
+        "MailingCit": "Land O Lakes, FL 34638-2826",
+        "PhyAddress": "12223 Chicago Ave??"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.65821919748925,
+          28.334841349395056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Sprint PCS",
+        "HT_FT": "190",
+        "MailingCit": "Zephyrhills, FL 33542-6237",
+        "PhyAddress": "8551 U.S. 98"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.11661074758942,
+          28.279222177525952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "TECO",
+        "HT_FT": "195",
+        "MailingCit": "Tampa, FL 33601-0111",
+        "PhyAddress": "39403 County Line Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.16501808455217,
+          28.172185684408046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "132",
+        "MailingCit": "Spring Hill, FL 34610-2929",
+        "PhyAddress": "13440 U.S. 41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.50425230133256,
+          28.353323239585478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile/APT",
+        "HT_FT": "164-169",
+        "MailingCit": "Port Richey, FL 34668-7413",
+        "PhyAddress": "12077 Moon Lake Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.60677454710925,
+          28.33090195521742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "131/136",
+        "MailingCit": "Houston, TX 77251-1500",
+        "PhyAddress": "1714 Dale Mabry Hwy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4674290473141,
+          28.18200128646101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "172",
+        "MailingCit": "Land O Lakes, FL 34639-0443",
+        "PhyAddress": "7735 Land O Lakes Blvd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.48484644094447,
+          28.268503703513375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "164",
+        "MailingCit": "Spring Hill, FL 34610-2221",
+        "PhyAddress": "18249 U.S. 41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46911000011936,
+          28.423619999723776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "60/170",
+        "MailingCit": "New Port Richey, FL 34653-2359",
+        "PhyAddress": "2141 Seven Springs Blvd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.69984773707692,
+          28.190013044995624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Verizon Wireless/Florida Power",
+        "HT_FT": "186",
+        "MailingCit": "St Petersburg, FL 33733-4042",
+        "PhyAddress": "13220 SR 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.59687306493583,
+          28.19295814386906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Verizon Wireless",
+        "HT_FT": "150",
+        "MailingCit": "Hudson, FL 34667-4339",
+        "PhyAddress": "9226 Denton Ave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66139913491492,
+          28.38852058998171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Verizon Wireless/T-Mobile/St. George Greek Ortho",
+        "HT_FT": null,
+        "MailingCit": "New Port Richey, FL 34654-3417",
+        "PhyAddress": "9426 Little Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.67447601991734,
+          28.295341380885986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "WTSP-TV",
+        "HT_FT": "1472",
+        "MailingCit": "St Petersburg, FL 33702-1908",
+        "PhyAddress": "1810 Solar Dr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.76067089976667,
+          28.184747387722272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "WXTB",
+        "HT_FT": "1248-1537",
+        "MailingCit": "Tampa, FL 33611-3410",
+        "PhyAddress": "1503 Dartmouth Dr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.76780515839394,
+          28.18263147879219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "WREC",
+        "HT_FT": "195",
+        "MailingCit": "Dade City, FL 33526-0278",
+        "PhyAddress": "7844 SR 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.68419539167952,
+          28.216151981318983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Alltel Wireless Holdings/T-Mobile",
+        "HT_FT": "240/287",
+        "MailingCit": "Little Rock, AR 72203-2177",
+        "PhyAddress": "13318 SR 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.59496522925254,
+          28.193244386809862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "American Tower Corp",
+        "HT_FT": "200",
+        "MailingCit": "Tampa, FL 33614-6532",
+        "PhyAddress": "8032 U.S. 19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.72128753094619,
+          28.274367012302683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "AT&T Mobility LLC",
+        "HT_FT": "299",
+        "MailingCit": "Dade City, FL 33526-0278",
+        "PhyAddress": "14541 21st St"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.20676900429334,
+          28.370265164474436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "AT&T Mobility LLC",
+        "HT_FT": "305",
+        "MailingCit": "Land O Lakes, FL 34638-2826",
+        "PhyAddress": "7205 Land O Lakes Blvd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.47970029029335,
+          28.263471791998516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "AT&T Mobility LLC",
+        "HT_FT": "195",
+        "MailingCit": "Tampa, FL33607-1435",
+        "PhyAddress": "17701 U.S. 41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.47363839685221,
+          28.4153639632578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Bright House Networks",
+        "HT_FT": null,
+        "MailingCit": "Syracuse, NY 13221-4739",
+        "PhyAddress": "3717 Grand Blvd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.72401355151999,
+          28.21319987565946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Bright House Networks",
+        "HT_FT": "100",
+        "MailingCit": "Syracuse, NY 13221-4739",
+        "PhyAddress": "16616 Shady Hills Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.54979612308533,
+          28.399382005537813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Clements Claire",
+        "HT_FT": "400",
+        "MailingCit": "Tampa, FL 33615-2126",
+        "PhyAddress": "18445 Clay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.26380790194597,
+          28.42595463605714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Crown Castle GT",
+        "HT_FT": "220",
+        "MailingCit": "Mc Murray,, PA 15317-2520",
+        "PhyAddress": "37512 Desrosier Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.19516921561697,
+          28.409449593371125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Crown Castle GT",
+        "HT_FT": "198",
+        "MailingCit": "Mc Murray, PA 15317-2520",
+        "PhyAddress": "18747 Greenfield Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.50551437333995,
+          28.354160666331804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Crown Castle GT/T-Mobile/Dexter Timothy",
+        "HT_FT": "285-295",
+        "MailingCit": "Mc Murray,, PA15317-2520",
+        "PhyAddress": "38508 B Ave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.17916320350736,
+          28.22786903309379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Crown Castle South LLC",
+        "HT_FT": "255",
+        "MailingCit": "New Port Richey, FL 34652-1635",
+        "PhyAddress": "7923 Clark Moody Blvd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7150045587155,
+          28.27263980680436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "CSX transportation",
+        "HT_FT": "285",
+        "MailingCit": "Dade City, FL 33526-1355",
+        "PhyAddress": "14206 U.S. 98 Byp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.18441999990462,
+          28.364679999869665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "FDOT",
+        "HT_FT": "278",
+        "MailingCit": "Tampa, FL 33612-6456",
+        "PhyAddress": "Blanton Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2877842671896,
+          28.420289830557902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Florida Power",
+        "HT_FT": "154",
+        "MailingCit": "St Petersburg, FL 33733-4042",
+        "PhyAddress": "37834 SR 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.19083376631941,
+          28.229253750575335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Florida Power",
+        "HT_FT": "280",
+        "MailingCit": "St Petersburg, FL 33733-4042",
+        "PhyAddress": "21315 SR 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.46319137750845,
+          28.19156409993183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Foreit Self Storage Inc/T-Mobile",
+        "HT_FT": "350",
+        "MailingCit": "Indian Rocks Beach, FL 33785-0275",
+        "PhyAddress": "4547 Voorhees Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.70419000030188,
+          28.225349999889655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Krusen Family (idle)",
+        "HT_FT": "200",
+        "MailingCit": "Tampa, FL 33606-2590",
+        "PhyAddress": "9551 U.S. 301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.18945000009931,
+          28.296950000295215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Pasco County Sheriff",
+        "HT_FT": "285",
+        "MailingCit": "New Port Richey, FL 34653-2359",
+        "PhyAddress": "37312 Howard Ave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.19876249060324,
+          28.36078243199892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Pinnacle Tower/T-Mobile/Cingular Wireless",
+        "HT_FT": "395",
+        "MailingCit": "Sarasota, FL 34232-6430",
+        "PhyAddress": "8326 Moon Lake Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.618440729252,
+          28.276963031898145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Radio Training Network",
+        "HT_FT": "320",
+        "MailingCit": "Lakeland, FL 33807-7217",
+        "PhyAddress": "6214 Springer Dr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.71190000033128,
+          28.283049999751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "SBA Towers/T-Mobile",
+        "HT_FT": "280",
+        "MailingCit": "Boca Raton, FL 33487-2797",
+        "PhyAddress": "10407 SR 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.64314875096345,
+          28.198626754762437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "SBA Towers",
+        "HT_FT": "190",
+        "MailingCit": "Trinity, FL 34655-1811",
+        "PhyAddress": "3451 Little Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66838999960392,
+          28.210680000371855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Spectrasite Comm",
+        "HT_FT": "180",
+        "MailingCit": "Palm Harbor, FL 34685-1040",
+        "PhyAddress": "7912 Grand Blvd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.72154107269584,
+          28.272174354155332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Sprint Florida",
+        "HT_FT": "300",
+        "MailingCit": "Overland, Park, KS 66207-0909",
+        "PhyAddress": "37810 Meridian Av"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.19070000033219,
+          28.363899999782642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "TECO",
+        "HT_FT": "275/290",
+        "MailingCit": "Tampa, FL 33601-0111",
+        "PhyAddress": "14633 14th St"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.19621756265573,
+          28.371691188148308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Thompson Frances",
+        "HT_FT": null,
+        "MailingCit": "Dade City, FL 33526-1023",
+        "PhyAddress": "37616 Bailey Hill Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1938564454593,
+          28.287920577297637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "136",
+        "MailingCit": "Port Richey, FL 34668-5310",
+        "PhyAddress": "6249 Old Ridge Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.71063868298548,
+          28.28145865994905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "T-Mobile",
+        "HT_FT": "136",
+        "MailingCit": "Holiday, FL 34690-3002",
+        "PhyAddress": "2623 Grand Blvd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.72403813562482,
+          28.19694129173761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TOWEROWNER": "Verizon Wireless",
+        "HT_FT": "180",
+        "MailingCit": "Land O Lakes, FL 34639-0296",
+        "PhyAddress": "5911 Ehren Cutoff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4561466072297,
+          28.24400054957714
+        ]
+      }
+    }
+  ]
 }
