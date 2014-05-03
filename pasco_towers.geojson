@@ -1,11 +1,5 @@
 {
   "type": "FeatureCollection",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
@@ -221,9 +215,10 @@
       "type": "Feature",
       "properties": {
         "TOWEROWNER": "WYFE -88.9",
-        "HT_FT": "490",
+        "HT_FT": 490,
         "MailingCit": "Charlotte NC  28241-7300",
-        "PhyAddress": "Arcola Av"
+        "PhyAddress": "Arcola Av",
+        "M": "Y"
       },
       "geometry": {
         "type": "Point",
@@ -1005,9 +1000,10 @@
       "type": "Feature",
       "properties": {
         "TOWEROWNER": "Bible Broadcasting",
-        "HT_FT": null,
+        "HT_FT": "null",
         "MailingCit": "Hudson, FL 34667-3622",
-        "PhyAddress": "8323 Arcola Ave"
+        "PhyAddress": "8323 Arcola Ave",
+        "M": "Y"
       },
       "geometry": {
         "type": "Point",
